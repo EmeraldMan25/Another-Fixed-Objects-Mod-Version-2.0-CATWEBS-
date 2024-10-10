@@ -1,0 +1,7 @@
+Put finished code into this folder so that I can import it into the AFOM data.win.
+
+Please make sure to upload any scripts you've made changes to, even minor changes need to be committed.
+
+Playtesting and bugfixing should be handled by you and you should be making sure that your changes work within AFOM before committing to this page because I will just import the scripts directly into the project.
+
+Thank you!
