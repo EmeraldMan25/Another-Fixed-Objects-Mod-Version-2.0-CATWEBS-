@@ -1,5 +1,7 @@
-Put finished code into this folder and then when you're all ready to update, import the scripts into the AFOM data.win and update the data.win on Github.
+Put finished code into this folder and then when you're all ready to update, import the scripts into the AFOM data.win and update the shared xdelta.
 
 Please make sure to upload any scripts you've made changes to, even minor changes need to be committed.
+
+Let me know if you need anything else from me
 
 Thank you!
