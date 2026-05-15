@@ -568,7 +568,7 @@ function preloadCustomLevel(argument0)
     instanceManager_reset()
 }
 
-function loadCustomLevel(argument0, argument1, argument2) // level name, wether it's instant or not, reset level complete
+function loadCustomLevel(argument0, argument1, argument2) // level name, whether it's instant or not, reset level complete
 {
     preloadCustomLevel(argument0)
     
